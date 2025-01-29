@@ -41,7 +41,7 @@ pip install sklearn
 pip install seaborn 
 pip install re 
 </pre>
-<button>Copy</button>
+<button style = "padding: 5px 10px; "></button>
 
 
 # Usage
