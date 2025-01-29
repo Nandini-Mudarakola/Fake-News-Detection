@@ -11,8 +11,8 @@ Fake news has become a significant issue in today's digital age, where informati
 # Dataset
 We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 
-. True: Genuine news articles
-. False: Fake or fabricated news articles
+&#8226; True: Genuine news articles
+&#8226; False: Fake or fabricated news articles
 # System Requirements
 ## Hardware :
  1. 4GB RAM
