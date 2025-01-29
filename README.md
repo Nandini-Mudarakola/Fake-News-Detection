@@ -33,36 +33,33 @@ Before running the code, make sure you have the following libraries and packages
 &#8226; Regular Expression <br>
 
 You can install these dependencies using pip:
-<pre>
+```
 pip install pandas
 pip install numpy
 pip install matplotlib
 pip install sklearn
 pip install seaborn 
 pip install re 
-</pre>
-<button style = "padding: 5px 10px; "></button>
+```
 
 
 # Usage
 
 1. Clone this repository to your local machine: 
 
-   <pre>
+  ```
    git clone https://github.com/Nandini-Mudarakola/Fake-News-Detection.git
-   </pre>
-<button style = "padding: 5px 10px; "></button>
+   
+```
 
 2. Navigate to the project directory:
-     <pre>
+```
     cd fake-news-detection
-    </pre>
-<button style = "padding: 5px 10px; "></button>
+```
 3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
-    <pre>
+```
    python random_forest_classifier.py
-   </pre>
-<button style = "padding: 5px 10px; "></button>
+```
 4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 # Results
@@ -70,3 +67,9 @@ We evaluated each classifier's performance using metrics such as accuracy, preci
 
 # Model Deployment
 Once you are satisfied with the performance of a particular classifier, you can deploy it in a real-world application or integrate it into a larger system for automatic fake news detection.
+
+# License
+This project is open-source and available under the MIT License.
+```
+Let me know if you need any changes! 🚀
+```
