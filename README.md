@@ -11,8 +11,8 @@ Fake news has become a significant issue in today's digital age, where informati
 # Dataset
 We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 
-True: Genuine news articles
-False: Fake or fabricated news articles
+. True: Genuine news articles
+. False: Fake or fabricated news articles
 # System Requirements
 ## Hardware :
  1. 4GB RAM
@@ -24,13 +24,13 @@ False: Fake or fabricated news articles
 # Dependencies
 Before running the code, make sure you have the following libraries and packages installed:
 
-Python 3
-Scikit-learn
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Regular Expression
+. Python 3
+. Scikit-learn
+. Pandas
+. Numpy
+. Seaborn
+. Matplotlib
+. Regular Expression
 You can install these dependencies using pip:
 
 pip install pandas
@@ -43,19 +43,19 @@ pip install re
 
 # Usage
 
-Clone this repository to your local machine: 
+1. Clone this repository to your local machine: 
 
 git clone https://github.com/Nandini-Mudarakola/Fake-News-Detection.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-   cd fake-news-detection
+   bash''' cd fake-news-detection
 
-Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
+3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
 
-   python random_forest_classifier.py
+  bash''' python random_forest_classifier.py
 
-The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
+4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 # Results
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
