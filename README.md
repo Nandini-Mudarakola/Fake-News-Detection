@@ -48,17 +48,19 @@ pip install re
 
 1. Clone this repository to your local machine: 
 
-    git clone https://github.com/Nandini-Mudarakola/Fake-News-Detection.git
+   '''md
+   '''plaintext
+   git clone https://github.com/Nandini-Mudarakola/Fake-News-Detection.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
     cd fake-news-detection
 
-3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
+4. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
 
    python random_forest_classifier.py
 
-4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
+5. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 # Results
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
