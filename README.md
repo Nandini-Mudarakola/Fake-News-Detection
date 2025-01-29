@@ -14,11 +14,11 @@ We have used a labelled dataset containing news articles along with their corres
 True: Genuine news articles
 False: Fake or fabricated news articles
 # System Requirements
-Hardware :
+## Hardware :
  1. 4GB RAM
  2. i3 Processor
  3. 500MB free space
-Software :
+## Software :
  1. Jupyter
  2. Python
 # Dependencies
