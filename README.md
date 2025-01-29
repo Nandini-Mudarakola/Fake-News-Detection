@@ -51,11 +51,11 @@ git clone https://github.com/Nandini-Mudarakola/Fake-News-Detection.git
 
 Navigate to the project directory:
 
-cd fake-news-detection
+'cd fake-news-detection'
 
 Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
 
-python random_forest_classifier.py
+'python random_forest_classifier.py'
 
 The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
