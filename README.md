@@ -53,17 +53,17 @@ pip install re
    </pre>
 <button style = "padding: 5px 10px; "></button>
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
      <pre>
     cd fake-news-detection
     </pre>
 <button style = "padding: 5px 10px; "></button>
-4. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
+3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
     <pre>
    python random_forest_classifier.py
    </pre>
 <button style = "padding: 5px 10px; "></button>
-5. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
+4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 # Results
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
