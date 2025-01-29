@@ -15,18 +15,12 @@ True: Genuine news articles
 False: Fake or fabricated news articles
 # System Requirements
 Hardware :
-
-4GB RAM
-
-i3 Processor
-
-500MB free space
-
+ 1. 4GB RAM
+ 2. i3 Processor
+ 3. 500MB free space
 Software :
-
-Jupyter
-
-Python
+ 1. Jupyter
+ 2. Python
 # Dependencies
 Before running the code, make sure you have the following libraries and packages installed:
 
