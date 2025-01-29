@@ -11,8 +11,8 @@ Fake news has become a significant issue in today's digital age, where informati
 # Dataset
 We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 
-&#8226; True: Genuine news articles
-&#8226; False: Fake or fabricated news articles
+ &#8226; True: Genuine news articles <br>
+ &#8226; False: Fake or fabricated news articles
 # System Requirements
 ## Hardware :
  1. 4GB RAM
@@ -24,13 +24,13 @@ We have used a labelled dataset containing news articles along with their corres
 # Dependencies
 Before running the code, make sure you have the following libraries and packages installed:
 
-. Python 3
-. Scikit-learn
-. Pandas
-. Numpy
-. Seaborn
-. Matplotlib
-. Regular Expression
+&#8226; Python 3
+&#8226; Scikit-learn
+&#8226; Pandas
+&#8226; Numpy
+&#8226; Seaborn
+&#8226; Matplotlib
+&#8226; Regular Expression
 You can install these dependencies using pip:
 
 pip install pandas
