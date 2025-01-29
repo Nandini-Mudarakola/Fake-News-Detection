@@ -31,14 +31,17 @@ Before running the code, make sure you have the following libraries and packages
 &#8226; Seaborn <br>
 &#8226; Matplotlib <br>
 &#8226; Regular Expression <br>
-You can install these dependencies using pip:
 
+You can install these dependencies using pip:
+<pre>
 pip install pandas
 pip install numpy
 pip install matplotlib
 pip install sklearn
 pip install seaborn 
 pip install re 
+</pre>
+<button>Copy</button>
 
 
 # Usage
