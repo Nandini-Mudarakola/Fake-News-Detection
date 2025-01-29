@@ -17,11 +17,15 @@ False: Fake or fabricated news articles
 Hardware :
 
 4GB RAM
+
 i3 Processor
+
 500MB free space
+
 Software :
 
 Jupyter
+
 Python
 # Dependencies
 Before running the code, make sure you have the following libraries and packages installed:
